@@ -1,8 +1,7 @@
 # WebAutomation-OrangeHRM-Selenium-TestNG
 ## Scenario
-1. Login to orange hrm demo site
+1. Login to orange hrm
 https://opensource-demo.orangehrmlive.com/
-
 2. Create 2 new employees and save it to a JSON list
 3. Now go to PIM dashboard and search by 1st user name. Assert that the user is found.
 4. Now click on the user from the search table and update id by random userid
@@ -14,11 +13,10 @@ https://opensource-demo.orangehrmlive.com/
 10. Logout the user
 
 ## Technology and Tool Used
-- Selenium Webdriver
+- Selenium
 - TestNG
 - Java
 - Gradle
-- intellij idea
 - Allure
 
 ## How to run this project
@@ -36,6 +34,5 @@ https://opensource-demo.orangehrmlive.com/
 ## Gradle Report
 ![image](https://user-images.githubusercontent.com/78273243/221940532-add7305a-85ae-4435-994d-9779a106f4c0.png)
 
-## Video Output
-https://user-images.githubusercontent.com/78273243/221940647-653fbc65-79ee-49c5-9459-912231fa120c.mp4
+
 
